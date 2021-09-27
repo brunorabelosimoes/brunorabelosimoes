@@ -1,11 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=brunorabelosimoes&color=brightgreen&style=plastic)
+![](https://img.shields.io/github/followers/brunorabelosimoes?label=Follow&color=brightgreen&style=plastic)
+<!--<img src="https://img.shields.io/github/followers/brunorabelosimoes?label=Follow" style=" float:left, margin-left:10px" />-->
 
-<div>
-Hello World! 👋 Eu sou Bruno Simões
 
-</div> 
+  <h4> Hello World! 👋 </h4>
+  <h1 align="center"> Eu sou Bruno Simões</h1>
   
-##
+  <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
 - 🎓 Pós Graduado em Informática em Saude
 - 🎓 Graduado em tecnologia da Informação e Internet e rede de computadores
 - 🔭 Trabalhando atualmente com análise técnica de investimentos e automatização de estratégias
