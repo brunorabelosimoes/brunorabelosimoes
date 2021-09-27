@@ -1,4 +1,11 @@
-## Hello World! 👋 Eu sou Bruno Simões
+![](https://komarev.com/ghpvc/?username=brunorabelosimoes&color=brightgreen&style=plastic)
+
+<div>
+Hello World! 👋 Eu sou Bruno Simões
+
+</div> 
+  
+##
 - 🎓 Pós Graduado em Informática em Saude
 - 🎓 Graduado em tecnologia da Informação e Internet e rede de computadores
 - 🔭 Trabalhando atualmente com análise técnica de investimentos e automatização de estratégias
